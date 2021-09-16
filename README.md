@@ -2,6 +2,10 @@
 
 Google Apps Script で作ったモノ
 
+## slack-connpass
+
+[slack-connpass](slack-connpass)
+
 ## slack-weather
 
 [slack-weather](slack-weather)
